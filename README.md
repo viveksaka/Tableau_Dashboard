@@ -22,7 +22,7 @@ This project features multiple interactive dashboards created using Tableau and 
 - Analyze the distribution of content ratings to ensure alignment with target audience preferences and regulatory requirements.
 - Track annual trends in Netflix's content library to identify growth areas and potential gaps in the content offering.
 
-- 
+
 **Catch me**
 [Linkedin](https://www.linkedin.com/in/sakavivek911/)
 
